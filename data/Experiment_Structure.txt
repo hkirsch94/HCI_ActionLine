@@ -1,0 +1,36 @@
+Experiment Texts:
+Questionaire 1:
+Do you use a smartphone for work or studying?
+Do you use a smartphone for hobbies or other freetime activities?
+Do you use a laptop/computer for work or studying?
+Do you use a laptop/computer for hobbies or other freetime activities?
+Do you use a smartwatch for work or studying?
+Do you use a smartwatch for hobbies or other freetime activities?
+How many of the websites you use for work or studying do you use frequently?
+How many of the websites you use for hobbies or other freetime activities do you use frequently?
+How much do you feel you depend on your electronic devices for work or studying?
+How much do you feel you depend on your electronic devices for hobbies or other freetime activities?
+
+Questionnaire 2:
+Is it easy for you to navigate through the websites you are using frequently?
+Is it easy for you to navigate through websites you never used before?
+Is it comfortable for you to use a smartphone for work or studying?
+Is it comfortable for you to use a smartphone for hobbies or other freetime activities?
+Is it comfortable for you to use a laptop/computer for work or studying?
+Is it comfortable for you to use a laptop/computer for hobbies or other freetime activities?
+Is it comfortable for you to use a smartwatch for work or studying?
+Is it comfortable for you to use a smartwatch for hobbies or other freetime activities?
+Would you like to be less dependent on your electronic devices for work or studying?
+Would you like to be less dependent on your electronic devices for hobbies or other freetime activities?
+
+
+Always above the button:
+To proceed with questionnaire 1 / 2, press the button.
+
+Text below or above the button:
+Please answer the questions as best as you can. If you can`t answer a question, tick the corresponding “can’t answer” box.
+
+Before the experiment:
+Thank you for your participation!
+This experiment is in the field of Human-Computer interaction. It is made of two questionnaires and will take about 5 minutes.
+We are collecting no personal data, except for your age. This way, the data we collect will be anonymous. 
