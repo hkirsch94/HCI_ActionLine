@@ -1,6 +1,6 @@
 # Files: 
 
-* [data](data): contains the data taken by HCIexperiment-v1-release.apk
+* [data](data): contains data.txt taken by HCIexperiment-v1-release.apk and the Experiment_Structure.txt
 * [fig](fig): contains all plots
 * [HCI_analyse.ipynb](HCI_analyse.ipynb): jupyter notebook containing a data analysis using the data in data
 * [HCIexperiment-v1-release.apk](HCIexperiment-v1-release.apk): App created by using Thunkable. Needs a Android system for installation.
