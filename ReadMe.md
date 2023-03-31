@@ -1,3 +1,6 @@
+# Group:
+* [Erna Petersen](https://github.com/Kirschberg32/): epetersen@uni-osnabrueck.de
+* [Fabian Kirsch](https://github.com/Ernalein): fkirsch@uni-osnabrueck.de
 # Files: 
 
 * [data](data): contains data.txt taken by HCIexperiment-v1-release.apk
