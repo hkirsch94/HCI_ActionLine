@@ -1,0 +1,35 @@
+Start page text:
+Thank you for your participation!
+This experiment is in the field of Human-Computer interaction. It is made of two questionnaires and will take about 5 minutes.
+We are collecting no personal data, except for your age. This way, the data we collect will be anonymous. 
+
+Condition page text 1:
+To proceed with questionnaire 1 / 2, press the button.
+
+Condition page text 2:
+Please answer the questions as best as you can. If you can`t answer a question, tick the corresponding “can’t answer” box.
+
+Questionnaire 1:
+Do you use a smartphone for work or studying? [never, sometimes, always]
+Do you use a smartphone for hobbies or other freetime activities? [never, sometimes, always]
+Do you use a laptop/computer for work or studying? [never, sometimes, always]
+Do you use a laptop/computer for hobbies or other freetime activities? [never, sometimes, always]
+Do you use a smartwatch for work or studying? [never, sometimes, always]
+Do you use a smartwatch for hobbies or other free time activities? [never, sometimes, always]
+How many of the websites you use for work or studying do you use frequently? [none, some, all]
+How many of the websites you use for hobbies or other free time activities do you use frequently? [none, some, all]
+How much do you feel you depend on your electronic devices for work or studying? [not at all, medium, completely]
+How much do you feel you depend on your electronic devices for hobbies or other free time activities? [not at all, medium, completely]
+
+Questionnaire 2:
+Is it easy for you to navigate through the websites you are using frequently? [not at all, medium, completely]
+Is it easy for you to navigate through websites you never used before? [not at all, medium, completely]
+Is it comfortable for you to use a smartphone for work or studying? [not at all, medium, completely]
+Is it comfortable for you to use a smartphone for hobbies or other free time activities? [not at all, medium, completely]
+Is it comfortable for you to use a laptop/computer for work or studying? [not at all, medium, completely]
+Is it comfortable for you to use a laptop/computer for hobbies or other free time activities? [not at all, medium, completely]
+Is it comfortable for you to use a smartwatch for work or studying? [not at all, medium, completely]
+Is it comfortable for you to use a smartwatch for hobbies or other free time activities? [not at all, medium, completely]
+Would you like to be less dependent on your electronic devices for work or studying? [not at all, medium, completely]
+Would you like to be less dependent on your electronic devices for hobbies or other free time activities? [not at all, medium, completely]
+
