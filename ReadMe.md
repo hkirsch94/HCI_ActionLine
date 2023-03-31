@@ -1,7 +1,7 @@
-#Our Group:
+# Our Group:
 
-*[Erna Petersen](https://github.com/Ernalein): epetersen@uni-osnabrueck.de
-*[Fabian Kirsch](https://github.com/Kirschberg32/): fkirsch@uni-osnabrueck.de
+* [Erna Petersen](https://github.com/Ernalein): epetersen@uni-osnabrueck.de
+* [Fabian Kirsch](https://github.com/Kirschberg32/): fkirsch@uni-osnabrueck.de
 
 # Files: 
 
