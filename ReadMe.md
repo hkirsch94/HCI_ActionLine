@@ -1,6 +1,6 @@
 # Group:
 * [Erna Petersen](https://github.com/Ernalein): epetersen@uni-osnabrueck.de
-* [Hanna Kirsch](https://github.com/hkirsch94/): hkirsch94@outlook.de
+* [Hanna Kirsch](https://github.com/hkirsch94/): h.kirsch94@outlook.de
 # Files: 
 * [data](data): contains data.txt taken by HCIexperiment-v1-release.apk
 * [fig](fig): contains all plots
