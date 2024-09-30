@@ -1,8 +1,7 @@
 # Group:
 * [Erna Petersen](https://github.com/Ernalein): epetersen@uni-osnabrueck.de
-* [Fabian Kirsch](https://github.com/Kirschberg32/): fkirsch@uni-osnabrueck.de
+* [Hanna Kirsch](https://github.com/hkirsch94/): hkirsch94@outlook.de
 # Files: 
-
 * [data](data): contains data.txt taken by HCIexperiment-v1-release.apk
 * [fig](fig): contains all plots
 * [HCI_analyse.ipynb](HCI_analyse.ipynb): jupyter notebook containing a data analysis using the data in data
